@@ -1,0 +1,11 @@
+<svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
+  <path fill="lightblue" stroke="blue" d="M20,20 L180,20 L180,80 L20,80 L20,20" />
+  <circle r="3" fill="navy">
+    <animateMotion
+      dur="10s"
+      repeatCount="indefinite"
+      path="M20,20 L180,20 L180,80 L20,80 L20,20" />
+  </circle>
+</svg>
+
+
